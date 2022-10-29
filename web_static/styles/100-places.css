@@ -135,12 +135,16 @@
     background-position: left;
     background-size: 20px;
     padding-left: 30px;
-    padding-top: 7px;
+    padding-top: 9px;
 }
 
 .amenities2 ul {
     list-style: none;
     padding-left: 0px;
+}
+
+.amenities2 li {
+	padding-bottom: 10px;
 }
 
 .reviews {
