@@ -63,6 +63,7 @@
 
 .popover {
     display: none;
+    position: relative;
     background-color: #FAFAFA;
     width: auto;
     border: solid #DDDDDD 1px;

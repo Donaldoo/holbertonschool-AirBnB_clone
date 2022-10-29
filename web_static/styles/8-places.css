@@ -48,10 +48,11 @@
 
 .information {
     height: 80px;
+    width: 100%;
     border-top: solid #DDDDDD 1px;
     border-bottom: solid #DDDDDD 1px;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     text-align: center;
 }
 
